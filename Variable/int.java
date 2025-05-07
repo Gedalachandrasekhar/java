@@ -5,7 +5,8 @@ class int1 {
     {
         int x = 10;
         int y = 20;
-        int result= x+y;
+        float z = 30.5f;
+        float result = x+y+z;
         System.out.print(result);
     }    
 }
